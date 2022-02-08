@@ -1,0 +1,5 @@
+#kilometers to centimeters 
+Kilometers=into(input("enter the kilometers:")) 
+Centimeters=100000*kilometers 
+ 
+print(centimeters)
